@@ -1,3 +1,4 @@
+# Encapsulation
 
 class Revenue
     def initialize(no_of_calls, total_sales)
