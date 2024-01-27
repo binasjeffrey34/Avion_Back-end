@@ -11,5 +11,5 @@ class Revenue
     end
 end
 
-revenue = Revenue.new(500, 14000)
+revenue = Revenue.new(400, 14000)
 puts revenue.Revenue_Per_Call
